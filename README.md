@@ -15,7 +15,8 @@
 
 <br>
 
-<h3>:clipboard: GitHub Card</h3>
+<h2>:clipboard: GitHub Card</h2>
+
 <a href="https://github.com/eduardo-ehsc">
   <img src="https://github-readme-stats.vercel.app/api?username=eduardo-ehsc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 </a>
