@@ -1,7 +1,7 @@
 <h1 align="center">Eduardo Correia</h1>
 <p align="center">
   <a href="https://github.com/eduardo-ehsc">Perfil</a> • 
-  <a href="https://github.com/eduardo-ehsc?tab=repositories">Repositórios</a> • 
+  <a href="https://eduardo-ehsc.github.io">Site</a> • 
   <a href="https://www.linkedin.com/in/eduardo-ehsc/">LinkedIn</a>
 </p>
 
@@ -11,7 +11,7 @@
 :house: Moro em Limeira-SP <br>
 :yellow_heart: Sou apaixonado por JavaScript, ReactJS, NodeJS e React-Native. <br>
 :book: Estudo no [Colégio Técnico de Limeira - UNICAMP](https://www.cotil.unicamp.br/portal/) <br>
-:zap: Aprendendo atualmente: Gatsby <br>
+:zap: Aprendendo trabalhando em: Site de portfólio<br>
 
 <br>
 
