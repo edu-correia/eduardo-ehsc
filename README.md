@@ -11,8 +11,7 @@
 :house: Moro em Limeira-SP <br>
 :yellow_heart: Sou apaixonado por JavaScript, ReactJS, NodeJS e React-Native. <br>
 :book: Estudo no [Colégio Técnico de Limeira - UNICAMP](https://www.cotil.unicamp.br/portal/) <br>
-:zap: Atualmente estudando: Docker com MongoDB<br>
-
+:zap: Atualmente trabalhando em: [weather-api-node](github.com/eduardo-ehsc/weather-api-node)
 <br>
 
 <h2>:clipboard: GitHub Card</h2>
