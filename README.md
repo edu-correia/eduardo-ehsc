@@ -11,7 +11,7 @@
 :house: Moro em Limeira-SP <br>
 :yellow_heart: Sou apaixonado por JavaScript, ReactJS, NodeJS e React-Native. <br>
 :book: Estudo no [Colégio Técnico de Limeira - UNICAMP](https://www.cotil.unicamp.br/portal/) <br>
-:zap: Atualmente aprendendo: D3.js <br>
+:zap: Atualmente aprendendo: Prisma 2 <br>
 
 <h2>:clipboard: GitHub Card</h2>
 
