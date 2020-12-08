@@ -11,7 +11,7 @@
 :house: Moro em Limeira-SP <br>
 :yellow_heart: Sou apaixonado por JavaScript, React, Node e Typescript. <br>
 :book: Estudo no [Colégio Técnico de Limeira - UNICAMP](https://www.cotil.unicamp.br/portal/) <br>
-:zap: Atualmente aprendendo: Next.js <br>
+:zap: Atualmente aprendendo: Next.js e Docker<br>
 :wrench: Trabalhando em [Github-Clone](https://github.com/eduardo-ehsc/github-clone)
 
 <h2>:clipboard: GitHub Card</h2>
