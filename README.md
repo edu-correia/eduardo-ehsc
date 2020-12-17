@@ -12,7 +12,7 @@
 :yellow_heart: Sou apaixonado por JavaScript, React, Node e Typescript. <br>
 :book: Estudo no [Colégio Técnico de Limeira - UNICAMP](https://www.cotil.unicamp.br/portal/) <br>
 :zap: Atualmente aprendendo: Next.js e Docker<br>
-:wrench: Trabalhando em [Github-Clone](https://github.com/eduardo-ehsc/github-clone)
+:wrench: Trabalhando em [Portal Monitoria](https://github.com/eduardo-ehsc/portal-monitoria)
 
 <h2>:clipboard: GitHub Card</h2>
 
