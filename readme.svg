@@ -2,83 +2,17 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
-					}
-				}
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
-				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
-				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: uppercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
-				}
-				p {
-					font-size: 20px;
-					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
+				.container{
+					width: 90%;
+					height: 600px;
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur congue placerat tristique. Maecenas egestas id erat sit amet feugiat. Quisque feugiat purus imperdiet arcu rutrum, vitae suscipit elit sodales. Nunc sit amet tincidunt velit. Maecenas libero orci, fringilla vel finibus ut, eleifend ac massa. Nulla vehicula neque faucibus, fermentum mi vel, facilisis sapien. Sed blandit eros ut quam sodales molestie. Donec dignissim ante lorem, eu eleifend tortor dignissim ut. Etiam sit amet dolor rhoncus, efficitur felis vitae, pulvinar diam.
+				Praesent scelerisque est quis pharetra imperdiet. Ut accumsan lectus id sem condimentum vehicula. Phasellus lobortis vitae leo ut interdum. Nam in velit molestie, tristique lorem id, condimentum enim. Suspendisse hendrerit mi ut tellus bibendum placerat. Etiam scelerisque, justo non lacinia interdum, urna lectus facilisis dui, et fringilla nulla urna sit amet dui. Aenean sed nibh vel enim imperdiet porta. Praesent lorem lorem, egestas id urna suscipit, cursus faucibus purus. Praesent tincidunt dolor eu pharetra imperdiet. Cras lectus metus, tempus non velit nec, ornare tristique urna. Curabitur laoreet facilisis commodo. Curabitur vitae purus at leo sodales rutrum et id odio. Donec eleifend, nisl a efficitur sollicitudin, ipsum nunc mattis mi, vitae egestas neque massa at quam. Morbi consequat enim enim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+				Sed elementum ut turpis eget porttitor. Mauris arcu nibh, cursus nec tristique eu, fringilla vel quam. Donec venenatis finibus ultricies. Maecenas a lectus vitae mi placerat facilisis. Nam non erat vitae leo fringilla convallis ac eget arcu. Etiam sed libero justo. Quisque vel libero lobortis, finibus nisl vehicula, ultrices mi. Nam aliquam tellus justo, eget sodales diam hendrerit et. Donec viverra ante orci, ac cursus velit congue eu. Nullam sed iaculis orci, vel dignissim enim. Proin tincidunt, ipsum in ornare dapibus, nunc quam condimentum tellus, at auctor lectus est eu erat. Ut commodo eu mi a rutrum. Proin bibendum dictum lacus, faucibus pellentesque purus rhoncus euismod. Nulla urna sapien, euismod sit amet volutpat sed, posuere ut diam. Donec at nulla quis tellus cursus posuere. Integer vulputate sapien ac sem vehicula, quis varius eros aliquam.
+				Vestibulum congue odio neque, ut sagittis est vestibulum vel. Donec at consectetur sem. Integer mattis arcu nec semper egestas. Mauris eu diam eu lacus luctus vestibulum. Sed eu feugiat libero. Aliquam nec euismod urna. Integer imperdiet pulvinar est semper convallis. Etiam non risus lacus. Suspendisse viverra purus at arcu consequat vulputate. Sed vel nisi nec dolor condimentum vestibulum at nec nibh. Aenean vitae venenatis ex. Etiam nec aliquet felis, at egestas diam. Nulla semper, tellus ac laoreet lacinia, sapien dui condimentum ante, sit amet rhoncus mauris eros id felis. Fusce tristique cursus ex non vulputate.
+				Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce sit amet eros non erat porta lacinia vel ut odio. Phasellus tempus dui interdum sem euismod pulvinar. Donec ornare sit amet dui ut gravida. Nullam consequat, ipsum ut mollis volutpat, turpis metus tristique dui, et rhoncus nisi enim a urna. Praesent suscipit nisl est, viverra imperdiet magna luctus a. Nunc non tempus ante. Donec faucibus nunc ac ante pellentesque, eu accumsan turpis aliquet. Aliquam facilisis ex sed viverra semper.
 			</div>
 		</div>
 	</foreignObject>
