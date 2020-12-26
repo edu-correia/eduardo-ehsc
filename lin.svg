@@ -1,0 +1,44 @@
+<svg fill="none" viewBox="0 0 150 30" width="150px" height="30px" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="150px" height="30px">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+
+                .container{
+                    width: 150px;
+                    height: 30px;
+                    background-color: #2364AF;
+                    border-radius: 4px;
+                    color: white;
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                    box-sizing: border-box;
+                    padding: 10px;
+                }
+
+                svg{
+                    margin-right: 20px;
+                }
+
+                span{
+                    font-family: 'Ubuntu', sans-serif;
+                    color: white;
+                    font-size: 12px;
+                }
+			</style>
+			<div class="container">
+                <svg width="18" height="20" viewBox="0 0 18 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <g clip-path="url(#clip0)">
+                    <path d="M3.91719 17.5H0.289062V5.81641H3.91719V17.5ZM2.10117 4.22266C0.941016 4.22266 0 3.26172 0 2.10157C8.3039e-09 1.5443 0.221373 1.00986 0.615419 0.615816C1.00947 0.22177 1.54391 0.000396729 2.10117 0.000396729C2.65844 0.000396729 3.19288 0.22177 3.58692 0.615816C3.98097 1.00986 4.20234 1.5443 4.20234 2.10157C4.20234 3.26172 3.26094 4.22266 2.10117 4.22266ZM17.4961 17.5H13.8758V11.8125C13.8758 10.457 13.8484 8.71876 11.9895 8.71876C10.1031 8.71876 9.81406 10.1914 9.81406 11.7148V17.5H6.18984V5.81641H9.66953V7.41016H9.72031C10.2047 6.49219 11.3879 5.52344 13.1531 5.52344C16.825 5.52344 17.5 7.94141 17.5 11.082V17.5H17.4961Z" fill="white"/>
+                    </g>
+                    <defs>
+                    <clipPath id="clip0">
+                    <rect width="17.5" height="20" fill="white"/>
+                    </clipPath>
+                    </defs>
+                </svg>
+                <span>@eduardo-ehsc</span>
+            </div>
+		</div>
+	</foreignObject>
+</svg>

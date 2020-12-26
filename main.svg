@@ -1,0 +1,797 @@
+<svg fill="none" viewBox="0 0 800 400" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+                .text-typing {
+                    font-size:20px;
+                    font-family:'Verdana', sans-serif;
+                    color:#fff;
+                }
+
+                .text-typing .tw-effect{
+                    margin:0px;
+                    white-space:nowrap;
+                    overflow:hidden;
+                }
+
+                .text-typing .tw-effect::before{
+                    content: "";
+                    animation:typing 20s steps(22,end) infinite, blink 1s infinite;
+                }
+
+                @keyframes typing {
+                    0% { 
+                        width:0ch;
+                        content: ""; 
+                        color:#E00E0E;
+                    }
+                    0.5% { 
+                        width:1ch;
+                        content: "a";
+                    }
+                    1% { 
+                        width:2ch;
+                        content: "a ";
+                    }
+                    1.5% { 
+                        width:3ch;
+                        content: "a S";
+                    }
+                    2% { 
+                        width:4ch;
+                        content: "a St";
+                    }
+                    2.5% { 
+                        width:5ch;
+                        content: "a Stu";
+                    }
+                    3% { 
+                        width:6ch;
+                        content: "a Stud";
+                    }
+                    3.5% { 
+                        width:7ch;
+                        content: "a Stude";
+                    }
+                    4% { 
+                        width:8ch;
+                        content: "a Studen";
+                    }
+                    4.5% { 
+                        width:9ch;
+                        content: "a Student";
+                    }
+                    5% { 
+                        width:10ch;
+                        content: "a Student ";
+                    }
+                    5.5% { 
+                        width:11ch;
+                        content: "a Student a";
+                    }
+                    6% { 
+                        width:12ch;
+                        content: "a Student an";
+                    }
+                    6.5% { 
+                        width:13ch;
+                        content: "a Student and";
+                    }
+                    7% { 
+                        width:14ch;
+                        content: "a Student and ";
+                    }
+                    7.5% { 
+                        width:15ch;
+                        content: "a Student and M";
+                    }
+                    8% { 
+                        width:16ch;
+                        content: "a Student and Mo";
+                    }
+                    8.5% { 
+                        width:17ch;
+                        content: "a Student and Mon";
+                    }
+                    9% { 
+                        width:18ch;
+                        content: "a Student and Moni";
+                    }
+                    9.5% { 
+                        width:19ch;
+                        content: "a Student and Monit";
+                    }
+                    10% { 
+                        width:20ch;
+                        content: "a Student and Monito";
+                    }
+                    10.5% { 
+                        width:21ch;
+                        content: "a Student and Monitor";
+                    }
+                    11% { 
+                        width:22ch;
+                        content: "a Student and Monitor ";
+                    }
+                    11.5% { 
+                        width:23ch;
+                        content: "a Student and Monitor a";
+                    }
+                    12% { 
+                        width:24ch;
+                        content: "a Student and Monitor at";
+                    }
+                    12.5% { 
+                        width:25ch;
+                        content: "a Student and Monitor at ";
+                    }
+                    13% { 
+                        width:26ch;
+                        content: "a Student and Monitor at C";
+                    }
+                    13.5% { 
+                        width:27ch;
+                        content: "a Student and Monitor at CO";
+                    }
+                    14% { 
+                        width:28ch;
+                        content: "a Student and Monitor at COT";
+                    }
+                    14.5% { 
+                        width:29ch;
+                        content: "a Student and Monitor at COTI";
+                    }
+                    15% { 
+                        width:30ch;
+                        content: "a Student and Monitor at COTIL";
+                    }
+                    15.5% { 
+                        width:31ch;
+                        content: "a Student and Monitor at COTIL,";
+                    }
+                    20% { 
+                        width:30ch;
+                        content: "a Student and Monitor at COTIL";
+                    }
+                    20.5% { 
+                        width:29ch;
+                        content: "a Student and Monitor at COTI";
+                    }
+                    21% { 
+                        width:28ch;
+                        content: "a Student and Monitor at COT";
+                    }
+                    21.5% { 
+                        width:27ch;
+                        content: "a Student and Monitor at CO";
+                    }
+                    22% { 
+                        width:26ch;
+                        content: "a Student and Monitor at C";
+                    }
+                    22.5% { 
+                        width:25ch;
+                        content: "a Student and Monitor at ";
+                    }
+                    23% { 
+                        width:24ch;
+                        content: "a Student and Monitor at";
+                    }
+                    23.5% { 
+                        width:23ch;
+                        content: "a Student and Monitor a";
+                    }
+                    24% { 
+                        width:22ch;
+                        content: "a Student and Monitor ";
+                    }
+                    24.5% { 
+                        width:21ch;
+                        content: "a Student and Monitor";
+                    }
+                    25% { 
+                        width:20ch;
+                        content: "a Student and Monito";
+                        color: #3FEE14;
+                    }
+                    25.5% { 
+                        width:19ch;
+                        content: "a Student and Monit";
+                    }
+                    26% { 
+                        width:18ch;
+                        content: "a Student and Moni";
+                    }
+                    26.5% { 
+                        width:17ch;
+                        content: "a Student and Mon";
+                    }
+                    27% { 
+                        width:16ch;
+                        content: "a Student and Mo";
+                    }
+                    27.5% { 
+                        width:15ch;
+                        content: "a Student and M";
+                    }
+                    28% { 
+                        width:14ch;
+                        content: "a Student and ";
+                    }
+                    28.5% { 
+                        width:13ch;
+                        content: "a Student and";
+                    }
+                    29% { 
+                        width:12ch;
+                        content: "a Student an";
+                    }
+                    29.5% { 
+                        width:11ch;
+                        content: "a Student a";
+                    }
+                    30% { 
+                        width:10ch;
+                        content: "a Student ";
+                    }
+                    30.5% { 
+                        width:9ch;
+                        content: "a Student";
+                    }
+                    31% { 
+                        width:8ch;
+                        content: "a Studen";
+                    }
+                    31.5% { 
+                        width:7ch;
+                        content: "a Stude";
+                    }
+                    32% { 
+                        width:6ch;
+                        content: "a Stud";
+                    }
+                    32.5% { 
+                        width:5ch;
+                        content: "a Stu";
+                    }
+                    33% { 
+                        width:4ch;
+                        content: "a St";
+                    }
+                    33.5% { 
+                        width:3ch;
+                        content: "a S";
+                    }
+                    34% { 
+                        width:2ch;
+                        content: "a ";
+                    }
+                    34.5% { 
+                        width:1ch;
+                        content: "a";
+                    }
+                    35% { 
+                        width:0ch;
+                        content: "";
+                    }
+                    35.5% { 
+                        width:1ch;
+                        content: "a";
+                    }
+                    36% { 
+                        width:2ch;
+                        content: "a ";
+                    }
+                    36.5% { 
+                        width:3ch;
+                        content: "a S";
+                    }
+                    37% { 
+                        width:4ch;
+                        content: "a Se";
+                    }
+                    37.5% { 
+                        width:5ch;
+                        content: "a Sel";
+                    }
+                    38% { 
+                        width:6ch;
+                        content: "a Self";
+                    }
+                    38.5% { 
+                        width:7ch;
+                        content: "a Self ";
+                    }
+                    39% { 
+                        width:8ch;
+                        content: "a Self t";
+                    }
+                    39.5% {
+                        width:9ch;
+                        content: "a Self ta";
+                    }
+                    40% {
+                        width:10ch;
+                        content: "a Self tau";
+                    }
+                    40.5% {
+                        width:11ch;
+                        content: "a Self taug";
+                    }
+                    41% {
+                        width:12ch;
+                        content: "a Self taugh";
+                    }
+                    41.5% {
+                        width:13ch;
+                        content: "a Self taught";
+                    }
+                    42% {
+                        width:14ch;
+                        content: "a Self taught ";
+                    }
+                    42.5% {
+                        width:15ch;
+                        content: "a Self taught J";
+                    }
+                    43% {
+                        width:16ch;
+                        content: "a Self taught Ja";
+                    }
+                    43.5% {
+                        width:17ch;
+                        content: "a Self taught Jav";
+                    }
+                    44% {
+                        width:18ch;
+                        content: "a Self taught Java";
+                    }
+                    44.5% {
+                        width:19ch;
+                        content: "a Self taught Javas";
+                    }
+                    45% {
+                        width:20ch;
+                        content: "a Self taught Javasc";
+                    }
+                    45.5% {
+                        width:21ch;
+                        content: "a Self taught Javascr";
+                    }
+                    46% {
+                        width:22ch;
+                        content: "a Self taught Javascri";
+                    }
+                    46.5% {
+                        width:23ch;
+                        content: "a Self taught Javascrip";
+                    }
+                    47% {
+                        width:24ch;
+                        content: "a Self taught Javascript";
+                    }
+                    47.5% {
+                        width:25ch;
+                        content: "a Self taught Javascript ";
+                    }
+                    48% {
+                        width:26ch;
+                        content: "a Self taught Javascript a";
+                    }
+                    48.5% {
+                        width:27ch;
+                        content: "a Self taught Javascript an";
+                    }
+                    49% {
+                        width:28ch;
+                        content: "a Self taught Javascript and";
+                    }
+                    49.5% {
+                        width:29ch;
+                        content: "a Self taught Javascript and ";
+                    }
+                    50% {
+                        width:30ch;
+                        content: "a Self taught Javascript and T";
+                        color: #0AC6D2;
+                    }
+                    50.5% {
+                        width:31ch;
+                        content: "a Self taught Javascript and Ty";
+                    }
+                    51% {
+                        width:32ch;
+                        content: "a Self taught Javascript and Typ";
+                    }
+                    51.5% {
+                        width:33ch;
+                        content: "a Self taught Javascript and Type";
+                    }
+                    52% {
+                        width:34ch;
+                        content: "a Self taught Javascript and Types";
+                    }
+                    52.5% {
+                        width:35ch;
+                        content: "a Self taught Javascript and Typesc";
+                    }
+                    53% {
+                        width:36ch;
+                        content: "a Self taught Javascript and Typescr";
+                    }
+                    53.5% {
+                        width:37ch;
+                        content: "a Self taught Javascript and Typescri";
+                    }
+                    54% {
+                        width:38ch;
+                        content: "a Self taught Javascript and Typescrip";
+                    }
+                    54.5% {
+                        width:39ch;
+                        content: "a Self taught Javascript and Typescript";
+                    }
+                    55% {
+                        width: 40ch;
+                        content: "a Self taught Javascript and Typescript ";
+                    }
+                    55.5% {
+                        width: 41ch;
+                        content: "a Self taught Javascript and Typescript D";
+                    }
+                    56% {
+                        width: 42ch;
+                        content: "a Self taught Javascript and Typescript De";
+                    }
+                    56.5% {
+                        width: 43ch;
+                        content: "a Self taught Javascript and Typescript Dev";
+                    }
+                    57% {
+                        width: 43ch;
+                        content: "a Self taught Javascript and Typescript Deve";
+                    }
+                    57.5% {
+                        width: 44ch;
+                        content: "a Self taught Javascript and Typescript Devel";
+                    }
+                    58% {
+                        width: 45ch;
+                        content: "a Self taught Javascript and Typescript Develo";
+                    }
+                    58.5% {
+                        width: 46ch;
+                        content: "a Self taught Javascript and Typescript Develop";
+                    }
+                    59% {
+                        width: 47ch;
+                        content: "a Self taught Javascript and Typescript Develope";
+                    }
+                    59.5% {
+                        width: 48ch;
+                        content: "a Self taught Javascript and Typescript Developer";
+                    }
+                    60% {
+                        width: 49ch;
+                        content: "a Self taught Javascript and Typescript Developer,";
+                    }
+                    63.5% {
+                        width: 48ch;
+                        content: "a Self taught Javascript and Typescript Developer";
+                    }
+                    64% {
+                        width: 47ch;
+                        content: "a Self taught Javascript and Typescript Develope";
+                    }
+                    64.5% {
+                        width: 46ch;
+                        content: "a Self taught Javascript and Typescript Develop";
+                    }
+                    65% {
+                        width: 45ch;
+                        content: "a Self taught Javascript and Typescript Develo";
+                    }
+                    65.5% {
+                        width: 44ch;
+                        content: "a Self taught Javascript and Typescript Devel";
+                    }
+                    66% {
+                        width: 43ch;
+                        content: "a Self taught Javascript and Typescript Deve";
+                    }
+                    66.5% {
+                        width: 42ch;
+                        content: "a Self taught Javascript and Typescript Dev";
+                    }
+                    67% {
+                        width: 41ch;
+                        content: "a Self taught Javascript and Typescript De";
+                    }
+                    67.5% {
+                        width: 40ch;
+                        content: "a Self taught Javascript and Typescript D";
+                    }
+                    68% {
+                        width: 39ch;
+                        content: "a Self taught Javascript and Typescript ";
+                    }
+                    68.5% {
+                        width: 38ch;
+                        content: "a Self taught Javascript and Typescript";
+                    }
+                    69% {
+                        width: 37ch;
+                        content: "a Self taught Javascript and Typescrip";
+                    }
+                    69.5% {
+                        width: 36ch;
+                        content: "a Self taught Javascript and Typescri";
+                    }
+                    70% {
+                        width: 35ch;
+                        content: "a Self taught Javascript and Typescr";
+                    }
+                    70.5% {
+                        width: 34ch;
+                        content: "a Self taught Javascript and Typesc";
+                    }
+                    71% {
+                        width: 33ch;
+                        content: "a Self taught Javascript and Types";
+                    }
+                    71.5% {
+                        width: 32ch;
+                        content: "a Self taught Javascript and Type";
+                    }
+                    72% {
+                        width: 31ch;
+                        content: "a Self taught Javascript and Typ";
+                    }
+                    72.5% {
+                        width: 30ch;
+                        content: "a Self taught Javascript and Ty";
+                    }
+                    73% {
+                        width: 29ch;
+                        content: "a Self taught Javascript and T";
+                    }
+                    73.5% {
+                        width: 28ch;
+                        content: "a Self taught Javascript and ";
+                    }
+                    74% {
+                        width: 27ch;
+                        content: "a Self taught Javascript and";
+                    }
+                    74.5% {
+                        width: 26ch;
+                        content: "a Self taught Javascript an";
+                    }
+                    75% {
+                        width: 25ch;
+                        content: "a Self taught Javascript a";
+                        color: #E1E51A;
+                    }
+                    75.5% {
+                        width: 24ch;
+                        content: "a Self taught Javascript ";
+                    }
+                    76% {
+                        width: 23ch;
+                        content: "a Self taught Javascript";
+                    }
+                    76.5% {
+                        width: 22ch;
+                        content: "a Self taught Javascrip";
+                    }
+                    77% {
+                        width: 21ch;
+                        content: "a Self taught Javascri";
+                    }
+                    77.5% {
+                        width: 20ch;
+                        content: "a Self taught Javascr";
+                    }
+                    78% {
+                        width: 19ch;
+                        content: "a Self taught Javasc";
+                    }
+                    78.5% {
+                        width: 18ch;
+                        content: "a Self taught Javas";
+                    }
+                    79% {
+                        width: 17ch;
+                        content: "a Self taught Java";
+                    }
+                    79.5% {
+                        width: 16ch;
+                        content: "a Self taught Jav";
+                    }
+                    80% {
+                        width: 15ch;
+                        content: "a Self taught Ja";
+                    }
+                    80.5% {
+                        width: 14ch;
+                        content: "a Self taught J";
+                    }
+                    81% {
+                        width: 13ch;
+                        content: "a Self taught ";
+                    }
+                    81.5% {
+                        width: 12ch;
+                        content: "a Self taught";
+                    }
+                    82% {
+                        width: 11ch;
+                        content: "a Self taugh";
+                    }
+                    82.5% {
+                        width: 10ch;
+                        content: "a Self taug";
+                    }
+                    83% {
+                        width:9ch;
+                        content: "a Self tau";
+                    }
+                    83.5% {
+                        width:8ch;
+                        content: "a Self ta";
+                    }
+                    84% {
+                        width:7ch;
+                        content: "a Self t";
+                    }
+                    84.5% {
+                        width:6ch;
+                        content: "a Self ";
+                    }
+                    85% {
+                        width:5ch;
+                        content: "a Self";
+                    }
+                    85.5% {
+                        width:4ch;
+                        content: "a Sel";
+                    }
+                    86% {
+                        width:3ch;
+                        content: "a Se";
+                    }
+                    86.5% {
+                        width:2ch;
+                        content: "a S";
+                    }
+                    87% {
+                        width:1ch;
+                        content: "a ";
+                    }
+                    87.5% {
+                        width:1ch;
+                        content: "a";
+                    }
+                    88% {
+                        width:0ch;
+                        content: "";
+                    }
+                    88.5% {
+                        width:1ch;
+                        content: "a";
+                    }
+                    89% {
+                        width:2ch;
+                        content: "a ";
+                    }
+                    89.5% {
+                        width:3ch;
+                        content: "a C";
+                    }
+                    90% {
+                        width:4ch;
+                        content: "a Cu";
+                    }
+                    90.5% {
+                        width:5ch;
+                        content: "a Cur";
+                    }
+                    91% {
+                        width:6ch;
+                        content: "a Curi";
+                    }
+                    91.5% {
+                        width:7ch;
+                        content: "a Curio";
+                    }
+                    92% {
+                        width:8ch;
+                        content: "a Curiou";
+                    }
+                    92.5% {
+                        width:9ch;
+                        content: "a Curious";
+                    }
+                    93% {
+                        width:10ch;
+                        content: "a Curious.";
+                    }
+                    95.5% {
+                        width:9ch;
+                        content: "a Curious";
+                    }
+                    96% {
+                        width:8ch;
+                        content: "a Curiou";
+                    }
+                    96.5% {
+                        width:7ch;
+                        content: "a Curio";
+                    }
+                    97% {
+                        width:6ch;
+                        content: "a Curi";
+                    }
+                    97.5% {
+                        width:5ch;
+                        content: "a Cur";
+                    }
+                    98% {
+                        width:4ch;
+                        content: "a Cu";
+                    }
+                    98.5% {
+                        width:3ch;
+                        content: "a C";
+                    }
+                    99% {
+                        width:2ch;
+                        content: "a ";
+                    }
+                    99.5% {
+                        width:1ch;
+                        content: "a";
+                    }
+                    100% {
+                        width:0ch;
+                        content: "";
+                        color: #E00E0E;
+                    }
+                }
+
+                @keyframes blink {
+                    0%,100% {
+                        border-right:2px solid transparent;
+                    }
+                    50% {
+                        border-right:2px solid #eee;
+                    }
+                }
+
+                .container{
+                    width:100%;
+                    height:max-content;
+                    border-radius: 8px;
+                    background: #0D1117;
+                    padding: 10px;
+                    padding-top: 0;
+                    box-sizing: border-box;
+                }
+
+                .container h1{
+                    padding-top: 10px;
+                    font-weight: normal;
+                    font-size: 28px;
+                    color: white;
+                    font-family: 'Verdana', sans-serif;
+                }
+			</style>
+            <div class="container">
+                <h1>Eduardo Correia</h1>
+                <div class="text-typing">
+                    <span>I'm </span><span class="tw-effect"></span>
+                </div>
+            </div>
+		</div>
+	</foreignObject>
+</svg>

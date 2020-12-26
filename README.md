@@ -1,7 +1,15 @@
-<div align="center">
-	<br>
-	<a href="https://github.com/eduardo-ehsc">
-		<img src="readme.svg">
-	</a>
-	<br>
-</div>
+<a href="https://www.linkedin.com/in/eduardo-ehsc">
+  <img src="./lin.svg">
+</a>
+
+<a href="https://www.github.com/eduardo-ehsc">
+  <img src="./gh.svg">
+</a>
+
+<a href="https://www.twitter.com/eduardo_ehsc">
+  <img src="./tt.svg">
+</a>
+
+<a href="https://eduardo-ehsc.github.io/#/">
+  <img src="./main.svg">
+</a>
